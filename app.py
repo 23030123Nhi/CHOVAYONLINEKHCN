@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("HỆ THỐNG ĐÁNH GIÁ CHO VAY")
+st.title("APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_ ĐỀ TÀI 9 ÁI NHI")
 
 # Nhập dữ liệu
 STV = st.number_input("NHẬP SỐ TIỀN MUỐN VAY (TRIỆU ĐỒNG)", min_value=0.0)
